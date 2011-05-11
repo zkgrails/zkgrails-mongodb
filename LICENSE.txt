@@ -1,0 +1,2 @@
+This plugin is released under LGPL.
+
